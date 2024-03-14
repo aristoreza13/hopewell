@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "197533783060",
+    "project_id": "physioappnew",
+    "storage_bucket": "physioappnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197533783060:android:a46343bed8be01cf4f4301",
+        "android_client_info": {
+          "package_name": "com.hiphysio_mock.hiphysio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197533783060-3idlgdis766esie7mt8ig5eknqa0rhvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hiphysio_mock.hiphysio",
+            "certificate_hash": "45a7ad82a37b9d0aa50cc9f817314f28287e95b6"
+          }
+        },
+        {
+          "client_id": "197533783060-kb0hislrcseid5rorrbnl5uetvsi7bve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDxN5z9oAIjJMYHp2loqnle4jL67TkVQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197533783060-kb0hislrcseid5rorrbnl5uetvsi7bve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197533783060:android:30000a4acdfb55c34f4301",
+        "android_client_info": {
+          "package_name": "com.personal.hopewell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197533783060-pts8mnm3tqm6hnff7b9p97jjnb8844d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.personal.hopewell",
+            "certificate_hash": "45a7ad82a37b9d0aa50cc9f817314f28287e95b6"
+          }
+        },
+        {
+          "client_id": "197533783060-kb0hislrcseid5rorrbnl5uetvsi7bve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDxN5z9oAIjJMYHp2loqnle4jL67TkVQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197533783060-kb0hislrcseid5rorrbnl5uetvsi7bve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
