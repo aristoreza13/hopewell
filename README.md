@@ -1,16 +1,20 @@
-# hopewell
+# Hopewell
 
-A new Flutter project.
+Hopewell adalah aplikasi untuk menemukan terapis terdekat disekitar kalian. Project ini pernah diinisiasi pada tahun 2021 dengan nama yang berbeda.
+Repo ini berisikan progress dalam daur ulang (remake) aplikasi tersebut, dengan pendekatan dan desain yang berbeda
 
-## Getting Started
+## Selasa, 5 Maret 2024
+- Inisiasi awal project dan membuat halaman welcome / landing page
+- Menambahkan UI Login
 
-This project is a starting point for a Flutter application.
+## Rabu, 6 Maret 2024
+- Menambahkan UI Register
+- Menambahkan UI Home dan Search
 
-A few resources to get you started if this is your first Flutter project:
+## Jumat, 8 Maret 2024
+- Update UI Home : widget jadwal berikutnya, widget thumbnail video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Selasa, 12 Maret 2024
+- Update UI Search : menambahkan text phone number, redirecting icon to whatsapp
+- Menambahkan Error Screen News Page
+- Menambahkan Error Screen History page
